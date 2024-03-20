@@ -48,3 +48,4 @@ This project helped me to practice some grid as it's a little difficult for me t
 ## Acknowledgments
 
 A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-gpaJOs4EP). It definitely helps to find new ways to code and find easier solutions! 
+"# devClub-git" 
